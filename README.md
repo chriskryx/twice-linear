@@ -16,7 +16,6 @@ Given parameter n the function dbl_linear (or dblLinear...) returns the element 
 Example:
 
 dbl_linear(10) should return 22
-Note:
 
-Focus attention on efficiency
+Note: Focus attention on efficiency
 
